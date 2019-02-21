@@ -1,0 +1,52 @@
+﻿Cable Car,scenic spot,22.233881,114.172440
+Jellyfish kaleidoscope,scenic spot,22.233331,114.172475
+Shark and Secrets,scenic spot,22.232482,114.172404
+The Chinese Sturgeon,scenic spot,22.233018,114.172244
+Ocean Theater,scenic spot,22.233460,114.170688
+Ocean Skyscrapers,scenic spot,22.233717,114.170524
+The Pacific Coast,scenic spot,22.232960,114.169747
+Flying Swing,scenic spot,22.23185,114.17254
+Ferris Wheel,scenic spot,22.232025,114.172232
+Crazy Roller Coaster,scenic spot,22.231712, 114.172146
+The Swaying Ship,scenic spot,22.231439,114.171894
+Speed Journey,scenic spot,22.231930,114.171599
+Flying Eagle,scenic spot,22.232477,114.171300
+Animal Care Center,scenic spot,22.232035,114.170044
+Ocean Train Station,scenic spot,22.234842,114.170789
+Paradise Square,scenic spot,22.2348, 114.17083
+Tropical Rainforest,scenic spot,22.233956,114.171534
+Tropical Torrent,scenic spot,22.234256,114.172012
+Polar Speed,scenic spot,22.235064,114.171566
+Antarctic Wonders,scenic spot,22.235386,114.171380
+Snow Fox,scenic spot,22.235308,114.171589
+Arctic Trip,scenic spot,22.235179,114.171962
+Mine Driving,scenic spot,22.233631,114.168357
+Surfing Spacecraft,scenic spot,22.234837,114.169279
+Earth-shattering,scenic spot,22.234989,114.171043
+Speed Whirlwind,scenic spot,22.234576,114.171197
+Rampage,scenic spot,22.234615,114.171997
+Dynamic Express,scenic spot,22.235358,114.172390
+Thunder Beats,scenic spot,22.234893,114.171245
+Environmental Tree,scenic spot,22.245355,114.177172
+Pottery Locomotive,scenic spot,22.244859,114.177250
+Viagra Theater,scenic spot,22.244948,114.177373
+Creative Chalk Gallery,scenic spot,22.244478,114.177336
+Symphony Rotating Horse,scenic spot,22.244587,114.177233
+Clown Whirlwind,scenic spot,22.244301,114.177792
+Adventures With Air,scenic spot,22.244232,114.177715
+Frog Leapfrog,scenic spot,22.244048,114.177694
+Sea lions,scenic spot,22.24393,114.17787
+Shells,scenic spot,22.244351,114.177388
+Asian Snimal World,scenic spot,22.24558,114.1767
+Mascot,scenic spot,22.245471,114.176130
+Crocodile Lake,scenic spot,22.245629,114.176439
+Bird Theater,scenic spot,22.244861,114.176799
+Ocean Park Station,scenic spot,22.24603,114.17601
+Ocean Square,scenic spot,22.24724,114.17461
+Dream Water,scenic spot,22.24638,114.17495
+Ocean Wonders,scenic spot,22.245839,114.174680
+Beach Paradise Square,scenic spot,22.248304,114.186993
+Hong Kong Jockey Club,scenic spot,22.245363,114.175465
+Hong Kong Old Street,scenic spot,22.246139,114.176495
+Ocean Train Seaside Station,scenic spot,22.245352,114.175843
+Australia Wonders,scenic spot,22.249458,114.187918

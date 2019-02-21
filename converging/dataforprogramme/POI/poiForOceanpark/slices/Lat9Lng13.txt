@@ -1,0 +1,4 @@
+Ocean Park Station,scenic spot,22.24603,114.17601
+Ocean Square,scenic spot,22.24724,114.17461
+Dream Water,scenic spot,22.24638,114.17495
+Ocean Wonders,scenic spot,22.245839,114.17468

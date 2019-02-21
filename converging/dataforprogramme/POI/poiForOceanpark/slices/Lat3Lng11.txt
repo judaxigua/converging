@@ -1,0 +1,6 @@
+Polar Speed,scenic spot,22.235064,114.171566
+Antarctic Wonders,scenic spot,22.235386,114.17138
+Snow Fox,scenic spot,22.235308,114.171589
+Arctic Trip,scenic spot,22.235179,114.171962
+Earth-shattering,scenic spot,22.234989,114.171043
+Dynamic Express,scenic spot,22.235358,114.17239

@@ -1,0 +1,4 @@
+Mascot,scenic spot,22.245471,114.17613
+Crocodile Lake,scenic spot,22.245629,114.176439
+Hong Kong Jockey Club,scenic spot,22.245363,114.175465
+Ocean Train Seaside Station,scenic spot,22.245352,114.175843

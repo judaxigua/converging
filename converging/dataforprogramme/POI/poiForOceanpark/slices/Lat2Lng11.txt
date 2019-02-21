@@ -1,0 +1,10 @@
+﻿Cable Car,scenic spot,22.233881,114.17244
+Jellyfish kaleidoscope,scenic spot,22.233331,114.172475
+Ocean Theater,scenic spot,22.23346,114.170688
+Ocean Train Station,scenic spot,22.234842,114.170789
+Paradise Square,scenic spot,22.2348,114.17083
+Tropical Rainforest,scenic spot,22.233956,114.171534
+Tropical Torrent,scenic spot,22.234256,114.172012
+Speed Whirlwind,scenic spot,22.234576,114.171197
+Rampage,scenic spot,22.234615,114.171997
+Thunder Beats,scenic spot,22.234893,114.171245

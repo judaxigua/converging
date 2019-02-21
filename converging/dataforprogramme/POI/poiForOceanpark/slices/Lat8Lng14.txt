@@ -1,0 +1,12 @@
+Environmental Tree,scenic spot,22.245355,114.177172
+Pottery Locomotive,scenic spot,22.244859,114.17725
+Viagra Theater,scenic spot,22.244948,114.177373
+Creative Chalk Gallery,scenic spot,22.244478,114.177336
+Symphony Rotating Horse,scenic spot,22.244587,114.177233
+Clown Whirlwind,scenic spot,22.244301,114.177792
+Adventures With Air,scenic spot,22.244232,114.177715
+Frog Leapfrog,scenic spot,22.244048,114.177694
+Sea lions,scenic spot,22.24393,114.17787
+Shells,scenic spot,22.244351,114.177388
+Asian Snimal World,scenic spot,22.24558,114.1767
+Bird Theater,scenic spot,22.244861,114.176799
